@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include sensor_integration *.css
+recursive-include sensor_integration *.csv
+recursive-include sensor_integration *.html
+recursive-include sensor_integration *.ico
+recursive-include sensor_integration *.js
+recursive-include sensor_integration *.json
+recursive-include sensor_integration *.md
+recursive-include sensor_integration *.png
+recursive-include sensor_integration *.py
+recursive-include sensor_integration *.svg
+recursive-include sensor_integration *.txt
+recursive-exclude sensor_integration *.pyc
