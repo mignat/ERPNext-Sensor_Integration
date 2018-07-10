@@ -1,6 +1,6 @@
 ## Sensor Integration
 
-Conector designed ti integrate sensors into ERPNext
+Conector designed to integrate sensors into ERPNext
 
 #### License
 
